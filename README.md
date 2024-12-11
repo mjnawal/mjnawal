@@ -1,7 +1,7 @@
-https://user-images.githubusercontent.com/66074608/224107954-9878773b-8814-4f97-b640-686db58994f6.gif
+![MasterHead](https://user-images.githubusercontent.com/66074608/224107954-9878773b-8814-4f97-b640-686db58994f6.gif)
 <h1 align="center">Hi 👋, I'm Nawal Mohamed Jaffar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 - 🌱 I’m currently learning **react**
 
 <h3 align="left">Connect with me:</h3>
